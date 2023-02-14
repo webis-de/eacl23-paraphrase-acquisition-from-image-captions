@@ -1,0 +1,1 @@
+# eacl23-paraphrase-acquisition-from-image-captions
