@@ -1,0 +1,104 @@
+name: "wikipedia"
+in:
+  filetype: "wikitext"
+  filepathfilter: null
+  remote_filepaths:
+    - "file:///mnt/ceph/storage/corpora/corpora-thirdparty/corpus-wikipedia/wikimedia-snapshots/enwiki-20220901"
+  local_filepaths:
+    - "/mnt/hdd1/corpora/corpus-wikipedia/20200801/enwiki-20200801-pages-articles1.xml-p1p30303.bz2"
+out:
+  base_path: "/user/kipu5728/wikipedia/"
+image_extraction:
+  num_batches: 1
+  batch_mapper_memory: 2048
+  batch_reducer_memory: 4096
+  mapper_memory: 2048
+  reducer_memory: 4096
+  reducer_num: 100
+paraphrasing:
+  apply_img_filter: true
+  img_filter:
+    - "de.webis.image_processing.filter.TooFewReferencesHeuristic"
+    - "de.webis.image_processing.filter.TooManyReferencesHeuristic"
+  caption_preprocessor:
+    - "de.webis.nlp.preprocessor.LineBreakRemover"
+    - "de.webis.nlp.preprocessor.WhiteSpaceNormalizer"
+  caption_filter:
+    - "de.webis.nlp.filter.caption.EmptyHeuristic"
+    - "de.webis.nlp.filter.caption.TokenCountHeuristic"
+#    - "de.webis.nlp.filter.caption.SentenceHeuristic"
+    - "de.webis.nlp.filter.caption.VerbHeuristic"
+  img_equality_class: "de.webis.image_equality.ResourceIdentity"
+  paraphrase_filter:
+    - "de.webis.nlp.filter.paraphrase.EqualityHeuristic"
+    - "de.webis.nlp.filter.paraphrase.NearEqualityHeuristic"
+
+---
+name: "wikipedia-simple"
+in:
+  filetype: "wikitext"
+  filepathfilter: null
+  remote_filepaths:
+    - "file:///mnt/ceph/storage/corpora/corpora-thirdparty/corpus-wikipedia/wikimedia-snapshots/simplewiki-20220301/simplewiki-20220301-pages-articles-multistream.xml.bz2"
+  local_filepaths:
+out:
+  base_path: "/user/kipu5728/wikipedia-simple/"
+image_extraction:
+  num_batches: 1
+  batch_mapper_memory: 2048
+  batch_reducer_memory: 4096
+  mapper_memory: 2048
+  reducer_memory: 4096
+  reducer_num: 100
+paraphrasing:
+  apply_img_filter: true
+  img_filter:
+    - "de.webis.image_processing.filter.TooFewReferencesHeuristic"
+    - "de.webis.image_processing.filter.TooManyReferencesHeuristic"
+  caption_preprocessor:
+    - "de.webis.nlp.preprocessor.LineBreakRemover"
+    - "de.webis.nlp.preprocessor.WhiteSpaceNormalizer"
+  caption_filter:
+    - "de.webis.nlp.filter.caption.EmptyHeuristic"
+    - "de.webis.nlp.filter.caption.TokenCountHeuristic"
+    #    - "de.webis.nlp.filter.caption.SentenceHeuristic"
+    - "de.webis.nlp.filter.caption.VerbHeuristic"
+  img_equality_class: "de.webis.image_equality.ResourceIdentity"
+  paraphrase_filter:
+    - "de.webis.nlp.filter.paraphrase.EqualityHeuristic"
+    - "de.webis.nlp.filter.paraphrase.NearEqualityHeuristic"
+
+---
+name: "wikipedia_history"
+in:
+  filetype: "wikitext"
+  filepathfilter: null
+  remote_filepaths:
+    - "file:///mnt/ceph/storage/corpora/corpora-thirdparty/corpus-wikipedia/wikimedia-history-snapshots/enwiki-20220101/"
+  local_filepaths: [ ]
+out:
+  base_path: "/user/kipu5728/wikipedia-history/"
+image_extraction:
+  num_batches: 10
+  batch_mapper_memory: 2048
+  batch_reducer_memory: 4096
+  mapper_memory: 2048
+  reducer_memory: 8192
+  reducer_num: 10000
+paraphrasing:
+  apply_img_filter: true
+  img_filter:
+    - "de.webis.image_processing.filter.TooFewReferencesHeuristic"
+    - "de.webis.image_processing.filter.TooManyReferencesHeuristic"
+  caption_preprocessor:
+    - "de.webis.nlp.preprocessor.LineBreakRemover"
+    - "de.webis.nlp.preprocessor.WhiteSpaceNormalizer"
+  caption_filter:
+    - "de.webis.nlp.filter.caption.EmptyHeuristic"
+    - "de.webis.nlp.filter.caption.TokenCountHeuristic"
+#    - "de.webis.nlp.filter.caption.SentenceHeuristic"
+    - "de.webis.nlp.filter.caption.VerbHeuristic"
+  img_equality_class: "de.webis.image_equality.ResourceIdentity"
+  paraphrase_filter:
+    - "de.webis.nlp.filter.paraphrase.EqualityHeuristic"
+    - "de.webis.nlp.filter.paraphrase.NearEqualityHeuristic"

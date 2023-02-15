@@ -1,0 +1,16 @@
+package de.webis.hadoop.counter;
+
+public enum ImageCounter {
+    UNIQUE_IMAGES,
+
+    REFERENCES,
+    REFERENCE_WITH_CAPTION,
+
+    REFERENCES_IN_INFOBOX,
+    REFERENCES_IN_MULTIPLE_IMAGE_BOX,
+    REFERENCES_IN_BODY,
+
+    PHYSICAL_IMAGES,
+
+    CAPTIONS
+}

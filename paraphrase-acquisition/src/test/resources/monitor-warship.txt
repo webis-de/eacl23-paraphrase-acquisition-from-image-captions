@@ -1,0 +1,182 @@
+{{short description|Small ironclad warship}}
+{{about|the type of warship|the U.S. Navy warship which gave its name to this type|USS Monitor}}
+
+[[File:HMSMarshalNeyUnderwayPortsideView1915.jpg|thumb|right|300px|{{HMS|Marshal Ney}} used a surplus 15-inch gun battleship turret.]]
+
+A '''monitor''' was a relatively small [[warship]] which was neither fast nor strongly armored but carried disproportionately large guns. They were used by some navies from the 1860s, during the [[First World War]] and with limited use in the [[Second World War]]. During the [[Vietnam War]] they were used by the [[United States Navy]].<ref>Carrico p. 10, 11</ref> The Brazilian Navy's [[Brazilian monitor Parnaíba (U17)|''Parnaíba'']] is the last monitor in service.
+
+The original monitor was designed in 1861 by [[John Ericsson]], who named it {{USS|Monitor}}. They were designed for shallow waters and served as coastal ships. The term also encompassed more flexible [[breastwork monitor]]s, and was sometimes used as a generic term for any turreted ship.
+
+The term "monitor" also encompasses the strongest of riverine warcraft, known as [[river monitor]]s. In the early 20th century, it was revived for shallow-draught armoured shore bombardment vessels, particularly those of the [[Royal Navy]]: the {{sclass-|Lord Clive|monitor|2}}s carried guns firing heavier shells than any other warship ever has, seeing action (albeit briefly) against German targets during World War I. The ''Lord Clive'' vessels were scrapped in the 1920s.
+
+[[File:Monitor officers2.jpg|300px|right|thumb|Officers of a Union monitor, probably {{USS|Sangamon |1862|6}}, photographed during the [[American Civil War]]]]
+[[File:Monitor model.jpg|thumb|right|300px|{{USS|Monitor}}, the first monitor (1861)]]
+
+==Nineteenth century==
+[[File:Battle of Mobile Bay.png|right|250px|thumb|U.S.Navy monitors forcing the surrender of the [[casemate ironclad]] {{ship|CSS|Tennessee|1863|6}} during the [[Battle of Mobile Bay]]]]
+
+===American Civil War===
+In Latin, a monitor is someone who admonishes: that is, reminds others of their duties—which is how USS ''Monitor'' was given its name.{{citation needed|date=March 2010}} She was designed by John Ericsson for emergency service in the Federal navy during the [[American Civil War]] (1861–65) to blockade the Confederate States from supply at sea. Ericsson designed her to operate in shallow water and to present as small a target as possible, the water around her acting as protection.
+
+[[Nathaniel Hawthorne]] described ''Monitor'' thus:
+
+{{quote|
+It was a platform of iron, so nearly on a level with the water that the swash of the waves broke over it, under the impulse of a very moderate breeze; and on this platform was raised a circular structure, likewise of iron, and rather broad and capacious, but of no great height. It could not be called a vessel at all; it was a machine...it looked like a gigantic rat-trap. It was ugly, questionable, suspicious...devilish; for this was the new war-fiend, destined...to annihilate whole navies and batter down old supremacies. The wooden walls of Old England cease to exist...now that the ''Monitor'' comes smoking into view; while the billows dash over what seems her deck, and storms bury even her turret in green water, as she burrows and snorts along, oftener under the surface than above...
+
+Going on board, we were surprised at the extent and convenience of her interior accommodations. There is a spacious ward-room, nine or ten feet in height, besides a private cabin for the commander, and sleeping accommodations on an ample scale; the whole well lighted and ventilated, though beneath the surface of the water... It was like finding a palace, with all its conveniences, under the sea. The inaccessibility, the apparent impregnability, of this submerged iron fortress are most satisfactory; the officers and crew get down through a little hole in the deck, hermetically seal themselves, and go below... A storm of cannon-shot damages them no more than a handful of dried peas. We saw the shot-marks made by the great artillery of the [[USS Merrimack (1855)|''Merrimack'']] on the outer casing of the iron tower...with no corresponding bulge on the interior surface. In fact, the thing looked altogether too safe...the circumvolutory movement of the tower, the quick thrusting forth of the immense guns to deliver their ponderous missiles, and then the immediate recoil, and the security behind the closed port-holes.<ref>{{cite book |last=Hawthorne |first=Nathaniel |year=1883 |title=The complete works of Nathaniel Hawthorne |url=https://books.google.com/books?id=KMhNAQAAMAAJ&pg=PA336 |volume=XII |pages=336–338 |publisher=Riverside Press Cambridge}}</ref>}}
+
+The [[Battle of Hampton Roads]] (March 1862), between ''Monitor'' and {{ship|CSS|Virginia}}, was the first engagement between ironclad vessels. Several such battles took place during the course of the American Civil War, and the dozens of monitors built for the United States Navy reflected a ship-to-ship combat role in their designs. However, fortification [[bombardment]] was another critical role that the early monitors played, though one that these early designs were much less capable in performing.
+
+Three months after the Battle of Hampton Roads, John Ericsson took his design to his native Sweden, and in 1865 the first Swedish monitor was built at [[Motala Warf]] in [[Norrköping]], taking the engineer's name. She was followed by 14 more monitors. One of them, ''[[Kanonbåten Sölve]]'', served until 1922 and is today preserved at the [[Maritiman]] marine museum in [[Gothenburg]].
+
+Ericsson and others experimented greatly during the years of the American Civil War. Vessels constructed included a triple-turreted monitor, a class of [[paddle steamer|paddlewheel-propelled]] monitors, a class of semi-submersible monitors, and a class of monitors armed with [[spar torpedo]]es.{{Citation needed|date=December 2016}}
+
+===1866 to 1878===
+In the 1860s and 1870s several nations built monitors that were used for coastal defense and took the name ''monitor'' as a type of ship. Those that were directly modelled on ''Monitor'' were low-freeboard, mastless, steam-powered vessels with one or two rotating, armoured turrets. The low freeboard meant that these ships were unsuitable for ocean-going duties and were always at risk of swamping, flooding and possible loss. However, it greatly reduced the cost and weight of the armour required for protection, and in heavy weather the sea could wash over the deck rather than heeling the ship over.{{Cn|date=March 2021}}
+
+Attempts were made to fit monitors with sails, but the provision of masts interfered with the turrets' ability to operate in a 360-degree arc of fire and the weight of masts and sails aloft made the ships less stable. One ship, {{HMS|Captain|1869|6}}, which combined turret and sails with a low freeboard, was lost in heavy weather.{{Cn|date=March 2021}}
+
+====War of the Pacific====
+[[File:Huascar1.jpg|right|thumb|''Huáscar'' anchored in the harbour at [[Talcahuano]]]]
+A late example of a vessel modeled on ''Monitor'' was {{ship||Huáscar|ironclad|2}}, designed by Captain [[Cowper P. Coles]], the advocate and developer of turret ships for the Royal Navy. ''Huáscar'' was one of many monitor designs to be equipped with a [[Ram (ship)|ram]]. She was built and launched in 1865 for the Peruvian Navy at [[Birkenhead, England]].
+
+''Huáscar'', under the command of Rear Admiral [[Miguel Grau Seminario|Miguel Grau]], fought with distinction during the [[War of the Pacific]]. ''Huáscar'' successfully raided enemy sea lanes for several months and delayed an invasion of the Chilean Army into Peruvian territory until she was captured by the [[Chilean Navy]] at the [[Naval Battle of Angamos|Battle of Angamos]] in 1879. Once in Chilean hands, ''Huáscar'' fought a small battle with the Peruvian monitor [[USS Oneota (1864)|''Manco Capac'']], during the [[Battle of Arica#Naval preliminary actions|bombardment of Arica]], where she was damaged; after the land battle was lost, the crew scuttled BAP ''Manco Capac'' to prevent capture.
+
+Over the years, both Chile and Peru came to venerate the ship and the officers from both sides that died on her deck, either commanding her or boarding her, as national heroes. ''Huáscar'' is currently commissioned in the Chilean Navy, has been restored to a near-original condition and, as a [[museum ship]], is open to visitors at its berth in [[Talcahuano]].
+
+[[File:Monitor monterrey.jpg|thumb|right|{{USS|Monterey|BM-6|6}}, a breastwork monitor, at [[Mare Island Naval Shipyard]], ''c''.1896. The older Ericsson-designed monitor {{USS|Camanche|1864|6}} is visible in the background.]]
+
+===1884–1897===
+In an effort to produce a more seaworthy vessel that was more capable in ship-to-shore combat, a type called the [[breastwork monitor]] became more common in the later nineteenth century. These ships had raised turrets and a heavier superstructure on a platform above the hull. They were still not particularly successful as seagoing ships, because of their short sailing range and the poor reliability of their steam engines. The first of these ships was {{ship|HMVS|Cerberus}}, built between 1868 and 1870. She was later sunk and used as a breakwater near [[Melbourne]], Australia and is still visible there, as her upper works project from the water.
+
+===Spanish–American War===
+[[File:USS Puritan (BM-1) - NH 60696.png|right|thumb|{{USS|Puritan|BM-1|6}}]]
+Monitors were used frequently during the [[Spanish–American War]] in 1898. Notable United States Navy monitors which fought in the war were {{USS|Amphitrite|BM-2|6}}, {{USS|Puritan|BM-1|6}}, {{USS|Monterey|BM-6|6}}, and {{USS|Terror|BM-4|6}}. These four monitors fought at battles or campaigns such as the [[Bombardment of San Juan]], the [[Battle of Fajardo]], and the [[Spanish–American War#Philippines|Philippines Campaign]]. Other monitors also participated in the conflict, including original Civil War ships. These were reactivated for coastal defence to allay fears about surprise Spanish raids, but this was pure political posturing as the ships were too slow and obselete  to have any military value.
+
+==Twentieth century==
+
+===World War I===
+[[File:Uss Florida BM9.JPG|right|thumb|[[USS Florida (BM-9)|USS ''Tallahassee'']], formerly USS ''Florida'', tending to submarines ''K-5'' and ''K-6'' in Hampton Roads, 1919]]
+During World War I, the Royal Navy developed several classes of ships which were designed to give close support to troops ashore. Termed "monitors", they owed little to the monitors of the 19th century, though they shared the characteristics of poor seaworthiness, shallow draft and heavy armament in turrets.
+
+The first class, the {{sclass-|Humber|monitor|4}}, had been laid down as large river gunboats for the Brazilian navy. Later monitor classes were equally makeshift; they were often designed for carrying whatever spare guns were available from ships scrapped or never built, with the hulls quickly designed and built in "cheap and cheerful" fashion. They were broad beamed for [[Instantaneous stability|stability]] (beam was about 1/3 of the overall length) which together with a lack of emphasis on speed made them extremely slow, and they were not suitable for naval [[combat]] or any sort of work on the high seas. Monitors of the Royal Navy played a part in consolidating the left wing of the [[Western Front (World War I)|Western Front]] during the [[Race to the Sea]] in 1914.
+
+In addition to these ships, several monitors were built during the course of the war. Their armament typically consisted of a turret taken from a de-commissioned [[pre-dreadnought]] battleship. These monitors were designed to be resilient against torpedo attacks—waterline bulges were incorporated into the {{sclass-|Abercrombie|monitor|4}} of 1915.<ref>[http://www.battleships-cruisers.co.uk/abercrombie_class.htm#HMS%20Abercrombie Abercrombie Class Monitors<!-- Bot generated title -->]</ref> As the war settled to its longer course, these heavier monitors formed patrols along with destroyers on either side of the [[Straits of Dover]] to exclude enemy surface vessels from the [[English Channel]] and keep the enemy in port. The monitors could also operate into the river mouths. {{HMS|General Wolfe}}, one of the ''Lord Clive''-class monitors, which had a single {{convert|18|in|mm|0|adj=on}} gun added in 1918, was able to shell a bridge {{convert|20|mi|km|-1}} away near [[Ostend]]. Other RN monitors served in the Mediterranean.
+
+The dimensions of the several classes of monitor varied greatly. Those of the ''Abercrombie'' class were {{convert|320|ft|m}} by {{convert|90|ft|m}} in the beam and drew {{convert|9|ft|m}} compared to the {{sclass-|M29|monitor|2}}s of 1915 that were only {{convert|170|ft|m}} long, and the {{sclass-|Erebus|monitor|4}} of 1916, which were {{convert|405|ft|m}} long. The largest monitors carried the heaviest guns.
+[[File:HMS Raglan (1915).jpg|right|thumb|{{HMS|Raglan}}]]
+
+By this point the United States Navy had largely stopped using monitors. Only a few still existed, and only seven were still in service, all of which had been relegated to being [[submarine tender]]s. This would be the last war in which United States monitor-type vessels would see commissioned service. The last original American monitor, {{USS|Wyoming|BM-10|6}}, renamed USS ''Cheyenne'' in 1908, was stricken from the [[Naval Vessel Register|Navy List]] in 1937.<ref>{{cite web |title=USS Wyoming (Monitor # 10, later BM-10 and IX-4), 1902-1939. |publisher=Department of the Navy; Naval Historical Center |location=Washington DC |access-date=August 20, 2013 |url=http://www.history.navy.mil/photos/sh-usn/usnsh-w/bm10.htm}}</ref>
+
+The [[Austro-Hungarian Navy]] had also invested heavily in the construction of river monitors to patrol its internal river systems such as the [[Danube]] and its tributaries. These vessels were among the first to fire on Serbian territory at the start of the First World War, and took part in the [[bombardment of Belgrade]], as well as other Balkan campaigns against Serbia and Romania. At the end of the war, the surviving vessels were parceled out to the navies of the new state of [[Yugoslavia]] and Romania as war prizes. Several would see action in World War II as well.
+
+The Italian Navy also constructed some monitors including the ''[[Italian monitor Faa di Bruno|Faa di Bruno]]'', using the main gun barrels for the cancelled [[Francesco Caracciolo-class battleship]]s.
+
+===World War II===
+{{see also|List of monitors of the Second World War}}
+
+The smaller Royal Navy monitors were mostly scrapped following World War I, though {{HMS|Erebus|I02|2}} and {{HMS|Terror|I03|2}} survived to fight in World War II. When the requirement for shore support returned, two large new {{sclass-|Roberts|monitor|2}}s, ''Roberts'' and ''Abercrombie'', were constructed and fitted with {{convert|15|in|mm|adj=on}} guns from older [[battleship]]s.
+
+[[File:HMS Erebus I02.jpg|right|thumb|HMS ''Erebus'' during World War II]]
+[[Allies of World War II|Allied]] monitors saw service in the [[Mediterranean]] in support of the [[British Eighth Army]]'s [[North African Campaign|desert]] and [[Italian Campaign (World War II)|Italian]] campaigns. They were part of the offshore bombardment for the [[Normandy Landings|Invasion of Normandy]] in 1944. They were also used to clear the German-mined [[River Scheldt]] by the British to utilize the port of [[Antwerp]].
+
+The former Italian WWI monitor ''Faa di Bruno'' had been redesignated as floating battery by the beginning of WW2, in which role she continued to play until the capitulation of Italy. She was then captured by the Germans and served as monitor ''Biber'' in Genoa, until the German surrender. She was scrapped after the war.
+
+The German, Yugoslav, Croatian and Romanian navies all operated river monitors on the Danube, which saw various combats during the war.
+
+===Soviet river monitors===
+
+The Soviets built many monitors before World War II, and used them mostly on rivers and lakes. After experiences during WWI, the [[Russian Civil War]] and the [[Manchukuo Imperial Navy]] raids in the Far East, the Soviets developed a new monitor class for their river flotillas.  The lead ship of the new series was ''Zheleznyakov'', laid down in the [[Kiev]] factory "[[Lenin's Smithy]]" in the fall of 1934. Currently, ''Zheleznyakov'' is preserved as a museum and monument on the [[Dnieper]].{{citation needed|date=January 2013}}
+
+===1946–1964===
+[[File:HMS Abercrombie (F109).jpg|right|thumb|{{HMS|Abercrombie|F109|6}}, 1946]]
+The Royal Navy still had {{HMS|Abercrombie|F109|6}} (completed 1943) and {{HMS|Roberts|F40|6}} (1941) in reserve in 1953. They were typical monitors, trunk-decked vessels, some {{convert|373|ft|m|0}} long overall, {{convert|90|ft|m|0|adj=on}} in the beam and with an {{convert|11|ft|m|0|adj=on}} mean draught carrying two {{convert|15|in|mm|0|adj=on}} guns.
+
+The [[Brazilian Navy]] presently operates the last true "monitor" as part of their inland waterway force, {{ship|Brazilian monitor|Parnaíba|U17|2}}.
+
+===Vietnam War===
+The [[Vietnam War]] was the U.S. Navy's second riverine war, after the American Civil War. On 18 December 1965, the U.S. Navy, for the second time in a hundred years, authorized the reactivation of a [[brown-water navy]], this time in [[South Vietnam]]. After studies were conducted, plans were drawn up by the U.S. Naval Advisory Group in February 1966, and by the summer of 1966 [[Secretary of Defense]] [[Robert S. McNamara]] authorized the U.S. Navy a [[Mobile Riverine Force]] (MRF).<ref>Carrico p. 10, 11</ref>
+
+Although U.S. Navy [[Patrol Craft Fast]] (Swift Boats), [[Patrol Boat, River|Patrol Boat River]] (PBRs) and assorted gunboats had been performing counter-insurgency operations in country prior to 1966, the allies were not gaining success in the [[Mekong Delta]] region. A stronger naval force was needed, one that was heavily armored, and heavily gunned.
+
+The U.S. Navy's MRF initially consisted of ''River Assault Flotilla One'', under Program 4 in 1967, and consisted of four ''River Assault Divisions'': RAD-91 which contained 3 [[Monitor (Vietnam War)|Monitors]]; RAD-92 contained 2 Monitors; RAD-111 had 3 Monitors; and RAD-112 operated 2 Monitors. These "river battleships",<ref>Carrico p. 20, 21, 63</ref> as they were known by the men, operated in conjunction with the CCB (Command Control Boat—also a monitor), ATCs [[Armored Troop Carrier (LCM)|Armored Troop Carrier]] (ATC) and the [[Assault Support Patrol Boat]]s (ASPBs) which were also assigned to each RAD.<ref>Carrico P. 12</ref>
+
+Vietnam Monitors were originally converted from World War II {{convert|56|ft|m|adj=on}} long all-steel [[Landing Craft Mechanized#LCM (6)|Landing Craft Mechanized]] (LCM) Mark 6s. They were constructed under two phases: Programs 4 and 5. Under Program 4, 10 Monitors were armed with one [[Bofors 40 mm gun|40 mm cannon]] and then fielded. Program 5 Monitors would correct any deficiencies from the previous vessels, and were fielded as the ''Monitor (H) 105 mm'' (Howitzer) and the ''Monitor (F)'' (Flamethrower).<ref>Carrico p. 63</ref> The Program 4 monitors mounted their single barrel 40&nbsp;mm cannon in a Mk 52 turret; while the Program 5 monitors mounted their 105&nbsp;mm cannon in a T172 turret, and the six flamethrowers were mounted in M8 cupola turrets (one on each side of the vessel's 40&nbsp;mm turret).<ref>Carrico p. 27</ref> Because the U.S. Marine Corps was also using the M49 105&nbsp;mm howitzer, there was a shortage, and only 8 ''Monitor (H)'' versions could be procured for the brown-water navy.
+
+As fielded, the 24 monitors of the U.S. Navy in Vietnam averaged about 10 tons of armor, were about {{convert|60|ft|m}} long, had two screws, were powered by two 64NH9 diesel engines, {{convert|8.5|kn|lk=in}} (maximum speed), {{convert|17.5|ft|m}} wide, {{convert|3.5|ft|m}} draft, and were normally manned by 11 crewmen.  When [[Fall of Saigon|South Vietnam fell]] on 30 April 1975, all monitors fell into the enemy's hands; leaving only one survivor, a training monitor, that never left the US. "Training" monitor #C-18 is on display, along with one Swift Boat and one PBR at the [[Naval Amphibious Base Coronado|U.S. Naval Amphibious Base]] in [[Coronado, California]].
+
+==Similar vessels==
+
+===River monitors===
+
+{{main|River monitor}}
+
+The monitor, by proving the efficacy of turrets over fixed guns, played a part in development of the dreadnought battleship from the [[ironclad]]. As a shallow draft vessel it also led to the [[river gunboat]]s which were used by imperial powers to police their [[colony|colonial possessions]]; indeed the largest and most heavily armed river gunboats became known as '''[[river monitor]]s'''. They were used by several navies, including those of the United Kingdom, the United States and Japan.
+
+===Submarine gunboats===
+USS ''Monitor'' had had very little freeboard so as to bring the mass of the gun turret down, thereby increasing stability and making the boat a smaller and therefore harder target for gunfire. At the end of the American Civil War, the U.S. Navy {{USS|Casco|1864|2}}-class monitors had large [[ballast tank]]s that allowed the vessels to partially submerge during battle. This idea was carried further with the concept of the Royal Navy's R class of submarine gunboats.
+
+The [[British M-class submarine]]s were initially designed for shore bombardment, but their purpose was changed to attacking enemy merchant vessels as their {{convert|12|in|mm|0|adj=on}} gun would be more effective at long range than a torpedo against a moving target. Only one, {{HMS|M1}}, entered service before the end of World War 1; she was lost in the [[English Channel]] after the war in 1925 after being accidentally rammed while submerged: her gun came free of its mount and she was completely flooded.
+[[File:USS Casco.jpg|240px|right|thumb|{{USS|Casco|1864|6}} in the [[James River]], 1865]]
+
+==Derivative uses of the name==
+To overcome the stability problems arising from the heavy turret mounted high in monitors, their hulls were designed to reduce other top weight. After Ericsson's ships, monitors developed the trunk deck design as the upper deck had to be heavily armoured against plunging shells. Because of the weight high in the hull, its breadth was minimized, giving rise to a vessel broad-beamed at the waterline, but with a narrow upper deck. The term for this sort of construction was [[tumblehome]]. Ships which were far narrower at the deck than the waterline were said to have a "pronounced tumblehome".
+
+By analogy, nineteenth century railway coaches with [[Clerestory#Transportation|clerestory roofs]] to accommodate ventilators and lamps above the heads of standing passengers in the centre while lower to the sides where passengers were seated were called monitors or monitor cars in the U.S.; the raised part of the roof was known as a turret. In ship design of around 1900, a [[turret deck ship|turret deck]] was a more austere version of the [[trunk deck ship|trunk deck]].
+
+==Surviving vessels==
+* The Russian [[Russian monitor Strelets|''Strelets'']] is an [[Uragan-class monitor|Uragan-class]] monitor built in 1864. She was converted into a floating [[workshop]] in 1900, and the ship would go on to serve in this role through 1955. She was found to be still afloat as a [[Hulk (ship type)|hulk]] in [[Saint Petersburg|St. Petersburg]], Russia in 2015, and as of 2017 the Foundation for Historic Boats and the Russian [[Central Armed Forces Museum|Central Military History Museum]] are making attempts to restore her.
+*The Peruvian {{ship||Huáscar|ironclad|2}} is a monitor built in England originally for Peru in 1865, which is still afloat in original condition in Talcahuano, Chile.
+* {{HMS|M33}} is an {{sclass-|M29|monitor|2}} of the Royal Navy built in 1915; she is preserved at [[HMNB Portsmouth|Portsmouth Historic Dockyard]] in the United Kingdom.
+* {{ship|HMVS|Cerberus}}, launched in 1868, was scuttled as a breakwater off the Australian coast in 1926. Work for her preservation is proceeding.
+* {{ship|Brazilian monitor|Parnaíba|U17|2}} is a river monitor currently in service with the Brazilian navy.
+* {{HSwMS|Sölve}} is a Swedish monitor built in 1875 and designed by John Ericsson the "father" of all monitors. Currently in a Maritime Museum in [[Gothenburg]], Sweden
+* {{SMS|Leitha}} (now "Lajta Monitor Múzeumhajó") is an Austro-Hungarian monitor built in 1871. Currently a museum ship.
+* [[Yugoslav monitor Sava|SMS ''Bodrog'']] is an Austro-Hungarian monitor built 1904, said to have fired the first shots of the First World War. Currently a landing stage in Beograd.
+* {{Ship|HNLMS|Schorpioen}} (1868) and {{Ship|HNLMS|Buffel}} (1868) are Dutch ramming ship monitors preserved as museum ships.
+
+
+== See also ==
+* [[List of monitors of the Royal Navy]]
+** {{sclass-|Abercrombie|monitor|4}}. HMS ''Abercrombie'' mentioned above was of the later ''Roberts'' class.
+** {{sclass-|Erebus|monitor|4}}
+** {{sclass-|Lord Clive|monitor|4}}
+** {{sclass-|Marshal Ney|monitor|4}}
+** {{sclass-|M29|monitor|4}} An example of this class is {{HMS|M33}}.
+** {{sclass-|Roberts|monitor|4}}
+* [[Gunboat]]
+* [[The Dover Patrol]]
+* [[Coastal defence ship]]
+* [[List of monitors of the United States Navy]]
+* [[List of monitors of the Swedish Navy]]
+* [[List of monitors of the Netherlands]]
+* [[List of monitors of the Second World War]]
+* [[List of coastal defence ships of the Second World War]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+*Anon. ''Jane's Fighting Ships 1953-54'' (1953)
+*Carrico, John M. ''Vietnam Ironclads, A Pictorial History of U.S. Navy River Assault Craft, 1966–1970.'' (2007) Brown Water Enterprises.  {{ISBN|978-0-9794231-0-9}}.
+*Churchill, W.S. ''The World Crisis 1911–1918'' (1938) Chapter XVI
+*Friedman, Norman.  ''U.S. Small Combatants: An Illustrated Design History.'' (1987) U.S. Naval Institute Press.  {{ISBN|0-87021-713-5}}.
+*Konstam, Angus ''The Duel of the Ironclads'' (2003) {{ISBN|1-84176-721-2}}
+
+== External links ==
+{{Commons category|Monitor warships}}
+* [https://web.archive.org/web/20140301041717/http://www3.hants.gov.uk/m33.htm HMS Monitor M33 at Portsmouth Naval Dockyard]
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-m/monitr-o.htm Photos aboard USS Monitor]
+* [http://www.battleships-cruisers.co.uk/monitors.htm Pictures of early twentieth century monitors]
+* [https://web.archive.org/web/20031204173226/http://www.paintedships.com/monitor.asp The service record of M33]
+* [https://web.archive.org/web/20050209110017/http://www.hwsac.co.uk/divetales/M2/HMS%20M2.htm M (monitor) class submarines]
+* [http://www.uboat.net/allies/warships/class.html?ID=232&navy=HMS Erebus class statistics]
+* [http://www.uboat.net/allies/warships/ship/5462.html The trunk-deck design of HMS Roberts shows clearly in this photograph]
+* [http://www.marinersmuseum.org/uss-monitor-center/uss-monitor-center USS ''Monitor'' Center at The Mariners' Museum]
+
+{{Warship types of the 19th & 20th centuries}}
+
+{{DEFAULTSORT:Monitor (Warship)}}
+[[Category:Monitors| ]]
+[[Category:Ship types]]
+[[Category:Battle of Hampton Roads]]
